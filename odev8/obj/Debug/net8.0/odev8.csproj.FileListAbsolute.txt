@@ -1,7 +1,0 @@
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.csproj.AssemblyReference.cache
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.AssemblyInfoInputs.cache
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.AssemblyInfo.cs
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.csproj.CoreCompileInputs.cache
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Bahadır\Desktop\odev8\obj\Debug\net8.0\odev8.MvcApplicationPartsAssemblyInfo.cache
