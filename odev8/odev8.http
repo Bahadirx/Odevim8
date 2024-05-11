@@ -1,0 +1,6 @@
+@odev8_HostAddress = http://localhost:5140
+
+GET {{odev8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
